@@ -1,0 +1,15 @@
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\bin\Debug\net6.0\main.exe
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\bin\Debug\net6.0\main.deps.json
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\bin\Debug\net6.0\main.runtimeconfig.json
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\bin\Debug\net6.0\main.dll
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\bin\Debug\net6.0\main.pdb
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\main.csproj.AssemblyReference.cache
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\main.AssemblyInfoInputs.cache
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\main.AssemblyInfo.cs
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\main.csproj.CoreCompileInputs.cache
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\main.dll
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\refint\main.dll
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\main.pdb
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\main.genruntimeconfig.cache
+C:\Users\khlan\Desktop\Tryhard\MDT-week2\Main\obj\Debug\net6.0\ref\main.dll

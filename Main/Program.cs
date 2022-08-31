@@ -1,6 +1,15 @@
-﻿
+﻿static void Main(string[] args) {
 
-Console.WriteLine("ZZ");
+
+
+    Console.WriteLine("UwU");
+
+
+
+}
+
+
+
 
 
 

@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\CAr\bin\Debug\net6.0\CAr.exe
+C:\Users\MDT\Desktop\CAr\bin\Debug\net6.0\CAr.deps.json
+C:\Users\MDT\Desktop\CAr\bin\Debug\net6.0\CAr.runtimeconfig.json
+C:\Users\MDT\Desktop\CAr\bin\Debug\net6.0\CAr.dll
+C:\Users\MDT\Desktop\CAr\bin\Debug\net6.0\CAr.pdb
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\CAr.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\CAr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\CAr.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\CAr.AssemblyInfo.cs
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\CAr.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\CAr.dll
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\refint\CAr.dll
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\CAr.pdb
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\CAr.genruntimeconfig.cache
+C:\Users\MDT\Desktop\CAr\obj\Debug\net6.0\ref\CAr.dll

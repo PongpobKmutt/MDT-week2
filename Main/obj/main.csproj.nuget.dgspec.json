@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khlan\\Desktop\\Tryhard\\MDT-week2\\Main\\main.csproj": {}
+    "C:\\Users\\MDT\\desktop\\MDT-week2\\Main\\main.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khlan\\Desktop\\Tryhard\\MDT-week2\\Main\\main.csproj": {
+    "C:\\Users\\MDT\\desktop\\MDT-week2\\Main\\main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khlan\\Desktop\\Tryhard\\MDT-week2\\Main\\main.csproj",
+        "projectUniqueName": "C:\\Users\\MDT\\desktop\\MDT-week2\\Main\\main.csproj",
         "projectName": "main",
-        "projectPath": "C:\\Users\\khlan\\Desktop\\Tryhard\\MDT-week2\\Main\\main.csproj",
-        "packagesPath": "C:\\Users\\khlan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khlan\\Desktop\\Tryhard\\MDT-week2\\Main\\obj\\",
+        "projectPath": "C:\\Users\\MDT\\desktop\\MDT-week2\\Main\\main.csproj",
+        "packagesPath": "C:\\Users\\MDT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MDT\\desktop\\MDT-week2\\Main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\khlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MDT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
